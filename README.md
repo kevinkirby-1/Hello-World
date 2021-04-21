@@ -1,14 +1,16 @@
- Overview
+# Overview
 
-This is cool software that displays Hello to my Mom because she is special.
+A simple hello world program to gain experience with git and github, integrated with VS code.
+
+
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 * Visual Studio Code
 * Python 3.9.4 64 bit
-* Git / GitHub
 
 # Useful Websites
 
-[Visual Studio Code & GitHub](https://code.vsualstudio.com/docs/editor/github)
-
+{Make a list of websites that you found helpful in this project}
+* [Visual Studio and Github](https://code.visualstudio.com/docs/editor/github)
